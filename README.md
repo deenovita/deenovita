@@ -1,8 +1,8 @@
-- 👋 Hello, I'm Dee Novita. Self-taught to get deep into things related to machine learning and networking.
+- 👋 Hello, I'm Dee Novita. Self-taught to understand-with-practices related to machine learning and computer networking.
 - 👀 Have strong interests in Machine Learning and Python.
 - 🌱 Currently learning Convolutional Neural Network with Backpropagation.
 - 💞️ Open to have discussions and collaborations.
-- 📫 Email is open deenovita.me@gmail.com and available on twitter under the username @deenovita_ will be happy to be in touch.
+- 📫 Email deenovita.me@gmail.com and available on twitter.
 
 <!---
 deenovita/deenovita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
