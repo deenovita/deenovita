@@ -1,4 +1,4 @@
-- 👋 Hello, I'm Dee Novita. Self-taught to understand-with-practices related to machine learning and computer networking.
+- 👋 Hello, I'm Dee Novita. Self-taught machine learning and computer networking.
 - 👀 Have strong interests in Machine Learning and Python.
 - 🌱 Currently learning Convolutional Neural Network with Backpropagation.
 - 💞️ Open to have discussions and collaborations.
