@@ -1,4 +1,4 @@
-- 👋 Hello, I'm Dee Novita. She/Her 👩‍💻. CS Student.
+- 👋 Hello, I'm Dewi (or just Dee for short). She/Her 👩‍💻. CS Student.
 - 👀 Have intense interests in Machine Learning 💻 and Python 🐍.
 - 🌱 Currently learning Convolutional Neural Network with Backpropagation 📚.
 - 🤓 Happy to have conversations/discussions/collaborations around the topics I had mentioned above.
