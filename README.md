@@ -1,7 +1,7 @@
-- 👋 Hello, I'm Dewi (or just Dee for short). She/Her 👩‍💻. CS Student.
-- 👀 Have intense interests in Machine Learning 💻 and Python 🐍.
-- 🌱 Currently learning Convolutional Neural Network 📚.
-- 🤓 Happy to have conversations/discussions/collaborations together.
+- 👋 Hello, I'm Dewi. She/Her. Bachelor of Computer Science.
+- 👀 Intense interests in Machine Learning 💻 and Python 🐍.
+- 🌱 Currently learning CNN and Data visualization.
+- 🤓 Happy to have conversation/discussion/collaboration together.
 - 📫 Email me on deenovita@proton.me.
 
 <!---
