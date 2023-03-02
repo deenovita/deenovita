@@ -1,5 +1,6 @@
 - 👋 Hello, I'm Dewi. She/Her. Bachelor of Computer Science.
-- 👀 Intense interests in Machine Learning 💻 and Python 🐍.
+- 💻 Freelancer, challenger, and writer.
+- 👀 Interests in ML, DL, and Python 🐍.
 - 🌱 Currently learning CNN and Data visualization.
 - 🤓 Happy to have conversation/discussion/collaboration together.
 - 📫 Email me on deenovita@proton.me.
