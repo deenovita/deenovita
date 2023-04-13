@@ -1,8 +1,8 @@
 - 👋 Hello, I'm Dewi. She/Her. Bachelor of Computer Science.
 - 💻 Freelancer, challenger, and writer.
 - 👀 Interests in ML, DL, and Python 🐍.
-- 🌱 Currently learning CNN and Data visualization.
-- 🤓 Happy to have conversation/discussion/collaboration together.
+- 🌱 Currently learning IVY and Data visualization.
+- 🤓 Happy to have discussion/collaboration together.
 - 📫 Email me on deenovita@proton.me.
 
 <!---
